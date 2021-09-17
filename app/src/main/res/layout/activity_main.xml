@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center_horizontal"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="16sp"
+
+        android:layout_height="match_parent">
+
+   <EditText
+       android:layout_width="match_parent"
+       android:layout_height="55sp"
+       android:hint="Title"
+       android:padding="10sp"
+       android:elevation="5sp"
+       android:background="@drawable/editextbackground"
+       android:layout_marginTop="16sp"
+       android:layout_marginBottom="10sp"
+       android:id="@+id/title"
+       />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="55sp"
+        android:hint="Description"
+        android:id="@+id/des"
+        android:padding="10sp"
+        android:layout_marginBottom="10sp"
+        android:elevation="5sp"
+        android:background="@drawable/editextbackground"
+        android:layout_marginTop="16sp"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="55sp"
+        android:id="@+id/btnnotify"
+        android:elevation="5sp"
+        android:layout_marginBottom="10sp"
+        android:text="create notification"
+        android:layout_marginTop="16sp"
+        />
+</LinearLayout>
+</LinearLayout>
