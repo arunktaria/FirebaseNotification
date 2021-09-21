@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Arun/FirebaseNotification2/app/src/main/res/drawable/btnbackground.xml" value="0.21614583333333334" />
         <entry key="..\:/Users/Arun/FirebaseNotification2/app/src/main/res/drawable/editextbackground.xml" value="0.21614583333333334" />
         <entry key="..\:/Users/Arun/FirebaseNotification2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Arun/FirebaseNotification2/app/src/main/res/layout/activity_web_view.xml" value="0.2" />
+        <entry key="..\:/Users/Arun/FirebaseNotification2/app/src/main/res/menu/firebaseconsolesearch.xml" value="0.2" />
       </map>
     </option>
   </component>
